@@ -5,7 +5,7 @@ info:
 paths:
   /users:
     post:
-      summary: Register User
+      summary: Register a User
       responses:
         '201':
           description: Created
